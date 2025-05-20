@@ -1,40 +1,93 @@
-# Italica Open Knowledge & NonCommercial License (IOK-NC) v1.0
+============================================================
+IOK-NC License v1.1 INTL
+Italica Open Knowledge – NonCommercial Use License
+============================================================
 
-Copyright © 2025 Samuele Scuglia
+Effective Date: 05\20\2025
+Author / Licensor: Samuele Scuglia, ItalicAI
 
----
+------------------------------------------------------------
+PREAMBLE
+------------------------------------------------------------
 
-## 1. Permessi concessi
+This license defines the rights and limitations granted to any natural or legal person
+who wishes to use, analyze, modify, or distribute the work to which it is attached.
+The goal is to encourage the spread of open knowledge while protecting the project
+from unauthorized commercial exploitation.
 
-- Utilizzo, studio, modifica, analisi, forking e ridistribuzione del materiale per ricerca, sperimentazione, didattica e scopi NON commerciali.
-- Condivisione in pubblico e collaborazione su progetti open source, citando sempre l’autore originale.
+------------------------------------------------------------
+ARTICLE 1 – GRANTED PERMISSIONS
+------------------------------------------------------------
 
-## 2. Restrizioni
+Under this license, the Licensee is permitted to:
 
-- È VIETATO l’uso in progetti commerciali, prodotti a pagamento, servizi proprietari o in qualsiasi contesto che generi profitto, senza consenso scritto dell’autore.
-- È VIETATA la registrazione a fini brevettuali o la sublicenza commerciale.
+- Use the work for personal, educational, research, cultural, or institutional purposes;
+- Modify or derive works from the original, provided that the result remains under
+  the same license and clearly states it is a derivative;
+- Analyze or reverse-engineer the work for educational or transparency purposes;
+- Redistribute the work (original or modified) non-commercially, including via open
+  repositories, platforms, or public archives.
 
-## 3. Obblighi
+------------------------------------------------------------
+ARTICLE 2 – LIMITATIONS
+------------------------------------------------------------
 
-- Citare sempre l’autore e la licenza originaria in ogni fork o utilizzo del materiale.
-- Allegare questo testo integrale in ogni distribuzione e fork.
+The following actions are strictly PROHIBITED:
 
-## 4. Arbitrato e foro competente
+- Any commercial use of the work or its derivatives without the express written
+  permission of the author or rights holder;
+- Any resale, integration in proprietary or paid services, or use in training
+  commercial artificial intelligence models;
+- Any form of patenting, relicensing, or exclusive appropriation of the work;
+- Misleading attribution or removal of original authorship and license notices.
 
-Qualsiasi controversia derivante dall’uso, modifica, distribuzione o interpretazione della presente licenza,  
-inclusa ogni questione di validità, esecuzione e interpretazione,  
-sarà **esclusivamente** risolta tramite arbitrato amministrato dalla  
-**World Intellectual Property Organization (WIPO)**  
-con sede a Ginevra (Svizzera), in lingua italiana,  
-ai sensi del Regolamento di Arbitrato della WIPO.  
-Le parti rinunciano espressamente a qualsiasi altro foro o giurisdizione.
+------------------------------------------------------------
+ARTICLE 3 – ATTRIBUTION AND TRANSPARENCY
+------------------------------------------------------------
 
-## 5. Contatti
+When redistributed, the work must always include:
 
-Per richieste commerciali, partnership o domande legali:  
-samuele.scuglia@gmail.com
+- A clear reference to the original author(s);
+- The complete text of this license (as LICENSE.txt);
+- A description of any modifications made, if applicable.
 
----
+------------------------------------------------------------
+ARTICLE 4 – JURISDICTION AND ARBITRATION
+------------------------------------------------------------
 
-> Questa licenza nasce per tutelare la libertà di ricerca e la condivisione “no profit” delle idee,  
-> proteggendo la comunità scientifica dall’appropriazione indebita da parte di soggetti privati o corporazioni.
+In case of disputes arising from the use of this license, the parties agree to prioritize
+resolution through international arbitration under WIPO rules (World Intellectual
+Property Organization), seated in Geneva, Switzerland.
+
+The language of arbitration shall be chosen by mutual agreement between the parties.
+If no agreement is reached, the language shall default to English.
+
+------------------------------------------------------------
+ARTICLE 5 – COMMERCIAL LICENSING OPTION
+------------------------------------------------------------
+
+For commercial use or distribution, the Licensee must obtain a specific license
+from the rights holder.
+
+Contact: [Insert contact email or foundation URL]
+
+------------------------------------------------------------
+ARTICLE 6 – VALIDITY
+------------------------------------------------------------
+
+This license is valid under the Berne Convention for the Protection of Literary and
+Artistic Works and is recognized internationally, provided that it is published
+together with the licensed work.
+
+------------------------------------------------------------
+CLOSING NOTES
+------------------------------------------------------------
+
+The IOK-NC license embodies a commitment to accessible knowledge, human dignity,
+and technological ethics.
+
+If your intent is not to exploit, but to learn, share, and build — you are welcome here.
+
+============================================================
+END OF LICENSE
+============================================================
